@@ -1,0 +1,17 @@
+html,body{
+  height:100%;
+}
+
+.App{
+  display:flex;
+  flex-direction:column;
+  height:100%;
+}
+#root{
+  height: 100%;
+}
+
+.bodyWrapper{
+  flex:1 0 auto;
+}
+
