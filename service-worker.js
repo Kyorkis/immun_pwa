@@ -27,7 +27,7 @@ self.addEventListener('install', function(event) {
           caches.open(CACHE_NAME)
               .then(function(cache) {
                   // Получаем данные из манифеста (они кэшируются)
-                  fetch('manifest/manifest.json')
+                  fetch('https://kyorkis.github.io/immun_pwa/manifest/manifest.json')
                       .then(response => {
                           response.json()
                       })
