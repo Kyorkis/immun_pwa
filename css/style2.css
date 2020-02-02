@@ -44,6 +44,15 @@ svg{
     color:green;
     font-size:7rem;
 }
+
+.lechim_container{
+    max-width: 80%;
+}
+@media(max-width:900px){
+    .lechim_container{
+        max-width:95%
+    }  
+}
 .banner{
     background-image: url("https://firebasestorage.googleapis.com/v0/b/testpwaimmun.appspot.com/o/banner_method_gp.jpg?alt=media&token=fd6d5e54-bd66-45b9-a9be-a5dd89e73d16");
     background-position:center;
