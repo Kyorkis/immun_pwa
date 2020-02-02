@@ -13,7 +13,7 @@
         "type": "image/png"
       }
     ],
-    "start_url": "/",
+    "start_url": "https://kyorkis.github.io/immun_pwa/",
     "background_color": "#7ACCE5",
     "theme_color": "#7ACCE5",
     "orientation": "any",
