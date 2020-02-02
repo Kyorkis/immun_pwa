@@ -3,12 +3,12 @@
     "name": "Health Care center Hodanovoy",
     "icons": [
       {
-        "src":"https://kyorkis.github.io/immun_pwa/manifest/icon-192x192.png",
+        "src":"https://firebasestorage.googleapis.com/v0/b/testpwaimmun.appspot.com/o/icon-192x192.png?alt=media&token=c96b2891-9311-4918-8273-ebd913ccd64c",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src":"https://kyorkis.github.io/immun_pwa/manifest/icon-512x512.png",
+        "src":"https://firebasestorage.googleapis.com/v0/b/testpwaimmun.appspot.com/o/icon-512x512.png?alt=media&token=fd8f0c12-d83c-46a1-b3e5-52a5add33a35",
         "sizes": "512x512",
         "type": "image/png"
       }
